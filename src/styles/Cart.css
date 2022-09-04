@@ -1,0 +1,23 @@
+.delete-icon:hover {
+  color: red !important;
+}
+
+.btn-buy {
+  color: rgb(101, 100, 100) !important;
+  background-color: black !important;
+  margin-left: 10px !important;
+  width: 70px !important;
+  height: 45px;
+  transition: 0.5s !important;
+}
+
+.btn-buy:hover {
+  color: rgb(255, 255, 255) !important;
+  transform: scale(1.1);
+}
+
+/* @media all and(maxWidth:740px) {
+  .table {
+    width: 100px !important;
+  }
+} */
